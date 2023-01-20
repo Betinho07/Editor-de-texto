@@ -1,5 +1,5 @@
 
-class Profram
+class Program
 {
     static void Main(string[] args)
     {
